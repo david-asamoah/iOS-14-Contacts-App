@@ -7,7 +7,7 @@ iOS 14 Contacts App. You can use this theme for your next React Native contacts 
 And decided to code it in React Native.
 
 ![ioS 14 Contacts App in React Native](https://res.cloudinary.com/dkamonv0d/image/upload/v1589891158/projs/iOS_14_contacts_app_banner_a8sm8b.png)
-## How download and use
+## How to download and use
 
 Download or clone the project zip file. Extract it into any location on your computer. Open the parent folder. There are additional two folders. Light Mode and Dark Mode.
 
