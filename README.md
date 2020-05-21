@@ -1,4 +1,4 @@
-## ioS 14 Contacts App in React Native
+## iOS 14 Contacts App in React Native
 
 iOS 14 Contacts App. You can use this theme for your next React Native contacts app. I came across Contacts App UI Kit [Free download for Sketch] by AL Design on dribble.com.
 
